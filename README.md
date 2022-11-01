@@ -39,6 +39,6 @@
 | **4.** *K . 3 + 1 = X* |
 | **5.** *K . 3 + 2 = X*  |
 
-**OBSERVAAÇÕES E CONCLUSÃO** Lembrando que seria possivel resolver esse problema utilizando apenas os casos 1, 4 e 5. Porém foi utilizado mais casos para apresentar ao usuário não só um método correto quanto o mais simples. O número 10 por exemplo poderia ser resolvido utilizando o Caso 4, pois 3 . 3 + 1 = 10, mas certamente é bem mais simples utilizar a ampulheta B (5min) duas vezes, não acha?
+**OBSERVAÇÕES E CONCLUSÃO**<br/> Lembrando que seria possivel resolver esse problema utilizando apenas os casos 1, 4 e 5. Porém foi utilizado mais casos para apresentar ao usuário não só um método correto quanto o mais simples. O número 10 por exemplo poderia ser resolvido utilizando o Caso 4, pois 3 . 3 + 1 = 10, mas certamente é bem mais simples utilizar a ampulheta B (5min) duas vezes, não acha?
 
 A resolução do problema foi bem simples, em breve irei adcionar um algorítimo 2.0, na qual o usuário além de inserir os minutos a serem medidos, também iria definir o tempo das duas ampulhetas.
